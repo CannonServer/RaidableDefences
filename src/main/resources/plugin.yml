@@ -1,0 +1,5 @@
+name: RaidableDefenses
+description: Nerf overpowered defenses and keep bases raidable.
+version: ${version}
+author: Autst
+main: main.java.net.minelink.raidabledefenses.RaidableDefenses
