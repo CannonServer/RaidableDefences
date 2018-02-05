@@ -1,5 +1,5 @@
-# RaidableDefences
-A plugin that stops unbreakable cannon defences
+# RaidableDefenses
+A plugin that stops unbreakable cannon defenses
 
 This plugin will destroy the following blocks when tnt blows up near them.
 
